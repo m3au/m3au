@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Bruno Varoni Othechar Palma" width="800" height="450" style="object-fit: cover;" />
+  <img src="header.png" alt="Bruno Varoni Othechar Palma" style="object-fit: cover;" />
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)

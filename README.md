@@ -1,26 +1,38 @@
 <div align="center">
-  <img src="header.png" alt="M3AU" width="200" />
+  <img src="header.png" alt="Bruno Varoni Othechar Palma" width="800" height="450" style="object-fit: cover;" />
+  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Testing](https://img.shields.io/badge/Testing-E33332?style=flat&logo=testing-library&logoColor=white)
+  ![AI](https://img.shields.io/badge/AI%20Art-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/brun0vop?style=social)](https://twitter.com/brun0vop)
 </div>
 
-# Hello, I'm M3AU 👋
+# Hello, I'm Bruno
 
-Welcome to my GitHub profile! I'm a developer passionate about art, code, and creating unique digital experiences.
+Senior Software Engineer based in Munich, with a focus on test automation and a passion for digital art. I blend technical expertise with creative exploration, working on test automation during the day while pursuing AI art and generative experiments in my free time.
 
-## Public Repos
+## 🛠️ Tech Stack
 
-- [brunovop](https://github.com/m3au/brunovop) - My personal website and art gallery
-- [cowsay](https://github.com/abeona/cowsay) - A simple cowsay bot twitter with developer jokes
+- **Testing**: Playwright, BDD/Cucumber, Shift Left
+- **Frontend**: TypeScript, Node.js
+- **Tools**: Git, Docker, GitHub Actions, AWS, Grafana
 
-## Project websites
+## 🌱 Currently Working On
 
-- [brunovop](https://brunovop.com) - My personal website and art gallery
-- [cowsay](https://cowsay.co) - A simple cowsay bot twitter with developer jokes
+- AI-driven test automation
+- Generative art experiments
+- AI art generation
+- Some mobile apps
 
-## Get in Touch
+## 📊 GitHub Stats
 
-- [Twitter](https://twitter.com/m3auso)
-- [LinkedIn](https://linkedin.com/in/brunovop/)
-- [GitHub](https://github.com/meowso)
-- [Discord](https://discord.gg/cowsayco)
-- [Facebook](https://www.facebook.com/brunovop)
-- [Buy Me a Coffee](https://buymeacoffee.com/m3auso)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunovop&show_icons=true&theme=dracula)](https://github.com/brunovop)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunovop&layout=compact&theme=dracula)](https://github.com/brunovop)
+
+## 📫 Get in Touch
+
+- Website: [brunovop.com](https://brunovop.com)
+- Twitter: [@brun0vop](https://twitter.com/brun0vop)
+- LinkedIn: [Bruno Varoni](https://linkedin.com/in/brunovop)

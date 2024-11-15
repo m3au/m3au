@@ -2,7 +2,7 @@
 # Welcome <!-- omit in toc -->
 
 <div width="100%">
-  <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="width: 100%; height: 300px; object-fit: cover;" />
+  <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="width: 100%; object-fit: cover;" />
 </div>
 
 ![Web Dev](https://img.shields.io/badge/Web_Dev-1572B6?style=flat&logo=html5&logoColor=white)

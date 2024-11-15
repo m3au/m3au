@@ -15,6 +15,8 @@
 
 I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mostly webdev, automation recipes, and bots - all sprinkled with a dash of AI art experiments.
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&disable_animations=true&theme=transparent&title_color=0969da&text_color=0969da&langs_count=10&layout=donut&hide_title=true&username=brun0vop)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)

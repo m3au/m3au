@@ -53,8 +53,6 @@
 
 </div>
 
----
-
 <div align="center">
 
   ## Currently working on
@@ -76,8 +74,6 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
 
 
 </div>
-
----
 
 <div align="center">
 

@@ -1,7 +1,9 @@
 <!-- markdownlint-disable MD041 -->
 # Welcome <!-- omit in toc -->
 
-<img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover;" />
+<div style="width: 100vw; margin-left: calc(-50vw + 50%);">
+  <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="width: 100%; height: 300px; object-fit: cover;" />
+</div>
 
 ![Web Dev](https://img.shields.io/badge/Web_Dev-1572B6?style=flat&logo=html5&logoColor=white)
 ![Mobile Development](https://img.shields.io/badge/Mobile_Development-3178C6?style=flat&logo=android&logoColor=white)
@@ -11,16 +13,16 @@
 
 I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mostly webdev, automation recipes, and bots - all sprinkled with a dash of AI art experiments.
 
-<table boder="none" style="border: none;">
-<tr style="border: none;">
-<td width="200" style="border: none;">
+<table style="border: none !important; background: transparent !important;">
+<tr style="border: none !important; background: transparent !important;">
+<td width="200" style="border: none !important; background: transparent !important;">
 
 - [Techstack](#techstack)
 - [Currently working on](#currently-working-on)
 - [Get in Touch](#get-in-touch)
 
 </td>
-<td align="left" style="border: none;">
+<td align="left" style="border: none !important; background: transparent !important;">
 
 > "Code until it works, test until it breaks, art until it makes sense, nya~"
 > — Mr Meowgi
@@ -99,7 +101,9 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
 
 ## Get in Touch
 
-  <img src="bg2.gif" alt="A cyberpunk pixel art cityscape at night with neon signs and rain-slicked streets" style="object-fit: cover;" />
+<div style="width: 100vw; margin-left: calc(-50vw + 50%);">
+  <img src="bg2.gif" alt="A cyberpunk pixel art cityscape at night with neon signs and rain-slicked streets" style="width: 100%; height: 300px; object-fit: cover;" />
+</div>
 
 [![Website](https://img.shields.io/badge/Website-brunovop.com-blue?style=flat&logo=firefox-browser&logoColor=white)](https://brunovop.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@brun0vop-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/brun0vop)

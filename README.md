@@ -15,10 +15,7 @@
 
 I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mostly webdev, automation recipes, and bots - all sprinkled with a dash of AI art experiments.
 
-> "Code until it works, test until it breaks, art until it makes sense, nya~"
-  — ᓚᘏᗢ purr
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&disable_animations=true&theme=transparent&title_color=0969da&text_color=0969da&langs_count=10&layout=donut&username=brun0vop)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&disable_animations=true&theme=transparent&title_color=0969da&text_color=0969da&langs_count=10&layout=donut&hide_title=true&username=brun0vop)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![markdownlint](https://img.shields.io/badge/markdownlint-000000?style=flat&logo=markdown&logoColor=white)
@@ -57,12 +54,12 @@ I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mos
 
 ### [Cowsayco](https://cowsay.co) <!-- omit in toc -->
 
-Twitter bot that posts curated developer dad jokes and quotes daily, check it out!  The repos are: 
+Twitter bot that posts curated developer dad jokes and quotes daily, check it out! 
 
  [![tweeterbot](https://img.shields.io/badge/tweeterbot-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay-tweeter) [![website](https://img.shields.io/badge/website-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay.co)
 
 <a href="https://cowsay.co">
-  <img align="center" src="https://cowsay.co/social-card.png" alt="Project preview image for Cowsayco" />
+  <img align="left" src="https://cowsay.co/social-card.png" alt="Project preview image for Cowsayco" style="max-width: 875px;" />
 </a>
 
 > click image
@@ -78,11 +75,12 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
   <img src="bg2.gif" alt="A cyberpunk pixel art cityscape at night with neon signs and rain-slicked streets" style="object-fit: cover;" />
 </div>
 
-[![Twitter m3auso](https://img.shields.io/badge/Twitter-m3auso-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/m3auso)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Discord cowsayco](https://img.shields.io/badge/Discord-cowsayco-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-m3auso-violet?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/m3auso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brun0vop-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brun0vop)
+[![Discord](https://img.shields.io/badge/Discord-610963104905560085-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/610963104905560085)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-m3auso-violet?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/m3auso)
+[![Website](https://img.shields.io/badge/Website-brunovop.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://brunovop.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brun0vop&color=blueviolet)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=brun0vop&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+

@@ -72,7 +72,7 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
 ## Get in Touch
 
 <div style="display: block; width: 100%;">
-  <img src="bg2.gif" alt="A cyberpunk pixel art cityscape at night with neon signs and rain-slicked streets" style="object-fit: cover;" />
+  <img src="https://i.pinimg.com/originals/46/9e/57/469e57cb6b2d66a5d470f2a8dd9c45fe.gif" alt="A cyberpunk pixel art cityscape at night with neon signs and rain-slicked streets" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brun0vop-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brun0vop)

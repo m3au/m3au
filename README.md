@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 
-<div align="left" style="width:100%">
+<div align="center">
 
   <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover;" />
 
@@ -101,6 +101,11 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
 ---
 
 ## Get in Touch
+
+- [Twitter](https://twitter.com/m3auso)
+- [LinkedIn](https://linkedin.com/in/brunovop/)
+- [Discord](https://discord.gg/cowsayco)
+- [Buy Me a Coffee](https://buymeacoffee.com/m3auso)
 
 <div align="center">
 

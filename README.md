@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 
-<div align="center">
+<div align="left">
 
   <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
 
@@ -17,7 +17,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&disable_animations=true&theme=transparent&title_color=0969da&text_color=0969da&langs_count=10&layout=donut&hide_title=true&username=brun0vop)](https://github.com/anuraghazra/github-readme-stats)
 

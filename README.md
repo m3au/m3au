@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 
-<img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
+<img src="https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
 
 ![Scripting](https://img.shields.io/badge/Scripting-darkgreen?style=flat&logo=gnu-bash&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web-blue?style=flat&logo=html5&logoColor=white)

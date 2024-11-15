@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 # Welcome <!-- omit in toc -->
 
-<div style="width: 100vw; margin-left: calc(-50vw + 50%);">
+<div width="100%">
   <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="width: 100%; height: 300px; object-fit: cover;" />
 </div>
 

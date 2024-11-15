@@ -14,9 +14,7 @@
 
 # Welcome to my humble repo
 
-I'm bruno and here is where I cook up some automation recipes, sprinkled with a dash of AI art experiments.
-
-You might accidentally find some of these ingredients in my kitchen:
+I'm bruno and here is where I cook up some automation recipes, sprinkled with a dash of AI art experiments. You might accidentally find some of these ingredients in my kitchen:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)

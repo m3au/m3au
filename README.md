@@ -59,7 +59,7 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
  [![tweeterbot](https://img.shields.io/badge/tweeterbot-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay-tweeter) [![website](https://img.shields.io/badge/website-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay.co)
 
 <a href="https://cowsay.co">
-  <img src="https://cowsay.co/hero_unit.png" alt="Project preview image for Cowsayco" />
+  <img src="https://cowsay.co/hero_unit.png" alt="Project preview image for Cowsayco" width="500"/>
 </a>
 
 > click image

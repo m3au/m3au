@@ -11,7 +11,7 @@
 
 I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mostly webdev, automation recipes, and bots - all sprinkled with a dash of AI art experiments.
 
-<table>
+<table style="border: none;">
 <tr style="border: none;">
 <td width="200" style="border: none;">
 

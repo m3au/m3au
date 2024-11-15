@@ -28,8 +28,13 @@ Senior Software Engineer based in Munich, with a focus on test automation and a 
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunovop&show_icons=true&theme=dracula)](https://github.com/brunovop)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunovop&layout=compact&theme=dracula)](https://github.com/brunovop)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brun0vop&layout=compact&theme=dracula)](https://github.com/brun0vop)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brun0vop&theme=dracula)](https://git.io/streak-stats)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=brun0vop&color=blueviolet)]()
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=brun0vop&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Get in Touch
 

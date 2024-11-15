@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 
-<div align="center">
+<div align="left" style="width:100%">
 
   <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover;" />
 

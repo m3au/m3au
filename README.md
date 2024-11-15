@@ -1,8 +1,9 @@
 <!-- markdownlint-disable MD041 -->
-# Welcome <!-- omit in toc -->
 
-<div >
+<div align="center">
+
   <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover;" />
+
 </div>
 
 ![Web Dev](https://img.shields.io/badge/Web_Dev-1572B6?style=flat&logo=html5&logoColor=white)
@@ -25,7 +26,7 @@ I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mos
 <td align="left" style="border: none !important; background: transparent !important;">
 
 > "Code until it works, test until it breaks, art until it makes sense, nya~"
-> — Mr Meowgi
+> — ᓚᘏᗢ purr
 
 </td>
 </tr>
@@ -101,8 +102,10 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
 
 ## Get in Touch
 
-<div style="width: 100vw; margin-left: calc(-50vw + 50%);">
-  <img src="bg2.gif" alt="A cyberpunk pixel art cityscape at night with neon signs and rain-slicked streets" style="width: 100%; height: 300px; object-fit: cover;" />
+<div align="center">
+
+  <img src="bg2.gif" alt="A cyberpunk pixel art cityscape at night with neon signs and rain-slicked streets" style="object-fit: cover;" />
+
 </div>
 
 [![Website](https://img.shields.io/badge/Website-brunovop.com-blue?style=flat&logo=firefox-browser&logoColor=white)](https://brunovop.com)
@@ -114,4 +117,3 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
 ![Profile Views](https://komarev.com/ghpvc/?username=brun0vop&color=blueviolet)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=brun0vop&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-

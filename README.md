@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="header.png" alt="Bruno Varoni Othechar Palma" style="object-fit: cover;" />
-  
+  <img src="bg.gif" alt="Bruno Varoni Othechar Palma" style="object-fit: cover;" />
+
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)

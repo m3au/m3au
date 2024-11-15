@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
+  <img src="bg.gifhttps://placecats.com/300/200" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
 
 </div>
 

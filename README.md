@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 
-<div align="left">
+<div align="center">
 
   <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
 
@@ -11,6 +11,9 @@
   ![AI Art](https://img.shields.io/badge/AI%20Art-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
   ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-ffffff?logo=openai&logoColor=black)
 
+</div>
+<div>
+ 
   I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mostly webdev, automation recipes, and bots - all sprinkled with a dash of AI art experiments.
 
 </div>

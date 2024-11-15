@@ -44,7 +44,7 @@ You might find some of these ingredients in my kitchen:
 
   <div style="float: left; min-width: 300px; padding-right: 20px;">
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brun0vop&disable_animations=true)](https://github.com/brun0vop)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brun0vop&disable_animations=true&theme=transparent)](https://github.com/brun0vop)
 
 </div>
 

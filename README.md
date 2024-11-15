@@ -12,7 +12,13 @@
 ![AI Art](https://img.shields.io/badge/AI%20Art-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
 [![Twitter Follow](https://img.shields.io/twitter/follow/brun0vop?style=social)](https://twitter.com/brun0vop)
 
+
 I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mostly webdev, automation recipes, and bots - all sprinkled with a dash of AI art experiments.
+
+
+| | |
+|-|-|
+| <div>• [Techstack](#techstack)<br>• [Currently working on](#currently-working-on)<br>• [Get in Touch](#get-in-touch)</div> | > "Code until it works, test until it breaks, art until it makes sense, nya~"<br>> — ᓚᘏᗢ purr |
 
 <table style="border: none !important; background: transparent !important;">
 <tr style="border: none !important; background: transparent !important;">

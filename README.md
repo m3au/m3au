@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://placecats.com/300/200" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
+  <img src="bg.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
 
 </div>
 
@@ -82,5 +82,5 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brun0vop&color=blueviolet)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brun0vop&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=brun0vop&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 

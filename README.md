@@ -22,15 +22,13 @@ I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mos
 
 Twitter bot that posts curated developer dad jokes and quotes daily, check it out!
 
+[![Follow @cowsayco](https://img.shields.io/twitter/follow/cowsayco?style=social)](https://x.com/cowsayco)
 
 <a href="https://cowsay.co">
   <img src="https://cowsay.co/hero_unit.png" alt="Project preview image for Cowsay.co" width="500"/>
 </a>
 
  [![tweeterbot](https://img.shields.io/badge/tweeterbot-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay-tweeter) [![website](https://img.shields.io/badge/website-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay.co)
-
-[![Follow @cowsayco](https://img.shields.io/twitter/follow/cowsayco?style=social)](https://x.com/cowsayco)
-
 
 ---
 

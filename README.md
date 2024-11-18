@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif" alt="A serene pixel art landscape with waterfalls cascading down cliffs surrounded by lush forest" style="object-fit: cover"/>
 
-![Scripting](https://img.shields.io/badge/Scripting-darkgreen?style=flat&logo=gnu-bash&logoColor=white)
+![Scripting](https://img.shields.io/badge/Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web-blue?style=flat&logo=html5&logoColor=white)
 ![Mobile Development](https://img.shields.io/badge/Mobile-blue?style=flat&logo=android&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-E33332?style=flat&logo=testing-library&logoColor=white)
@@ -11,11 +11,30 @@
 
 I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mostly webdev, automation recipes, and bots - all sprinkled with a dash of AI art experiments.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=transparent&title_color=0969da&text_color=0969da&langs_count=10&layout=donut&username=brun0vop)
+
 ---
 
-## Languages and Tools
+## Currently working on
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&disable_animations=true&theme=transparent&title_color=0969da&text_color=0969da&langs_count=10&layout=donut&hide_title=true&username=brun0vop)](https://github.com/anuraghazra/github-readme-stats)
+
+### [Cowsay.co](https://cowsay.co) <!-- omit in toc -->
+
+Twitter bot that posts curated developer dad jokes and quotes daily, check it out!
+
+
+<a href="https://cowsay.co">
+  <img src="https://cowsay.co/hero_unit.png" alt="Project preview image for Cowsay.co" width="500"/>
+</a>
+
+ [![tweeterbot](https://img.shields.io/badge/tweeterbot-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay-tweeter) [![website](https://img.shields.io/badge/website-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay.co)
+
+[![Follow @cowsayco](https://img.shields.io/twitter/follow/cowsayco?style=social)](https://x.com/cowsayco)
+
+
+---
+
+## Interests
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![markdownlint](https://img.shields.io/badge/markdownlint-000000?style=flat&logo=markdown&logoColor=white)
@@ -26,7 +45,6 @@ I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mos
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
-![NVM](https://img.shields.io/badge/NVM-33FF00?style=flat&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
@@ -46,26 +64,6 @@ I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mos
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
 ![EditorConfig](https://img.shields.io/badge/EditorConfig-E0EFEF?style=flat&logo=editorconfig&logoColor=000)
-
----
-
-## Currently working on
-
-
-### [Cowsayco](https://cowsay.co) <!-- omit in toc -->
-
-Twitter bot that posts curated developer dad jokes and quotes daily, check it out! 
-
- [![tweeterbot](https://img.shields.io/badge/tweeterbot-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay-tweeter) [![website](https://img.shields.io/badge/website-black?style=flat&logo=github&logoColor=white)](https://github.com/brun0vop/cowsay.co)
-
-<a href="https://cowsay.co">
-  <img src="https://cowsay.co/hero_unit.png" alt="Project preview image for Cowsayco" width="500"/>
-</a>
-
-> click image
-
-[![Follow @cowsayco](https://img.shields.io/twitter/follow/cowsayco?style=social)](https://x.com/cowsayco)
-
 
 ---
 

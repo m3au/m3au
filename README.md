@@ -11,7 +11,7 @@
 
 I'm Bruno, and welcome to my humble repo, this is where I cook up projects - mostly webdev, automation recipes, and bots - all sprinkled with a dash of AI art experiments.
 
-you can check my blog at https://github.com/m3au/m3au.
+you can check my blog at (https://m3au.bearblog.dev/).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&theme=transparent&title_color=0969da&text_color=0969da&langs_count=10&layout=donut&username=m3au)
 

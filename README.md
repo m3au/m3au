@@ -71,7 +71,7 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
   <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" alt="A cyberpunk pixel art cityscape at night with neon signs and rain-slicked streets" />
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brun0vop-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brun0vop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m3au-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/m3au)
 [![Discord](https://img.shields.io/badge/Discord-610963104905560085-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/610963104905560085)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-m3au-violet?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/m3au)
 [![Website](https://img.shields.io/badge/Website-brunovop.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://brunovop.com)

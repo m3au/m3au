@@ -74,6 +74,6 @@ Twitter bot that posts curated developer dad jokes and quotes daily, check it ou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-m3au-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/m3au)
 [![Discord](https://img.shields.io/badge/Discord-610963104905560085-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/610963104905560085)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-m3au-violet?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/m3au)
-[![dev Blog](https://img.shields.io/badge/Website-brunovop.com-4285F4?style=flat&logo=google-chrome&logoColor=white)]([https://brunovop.com](https://m3au.bearblog.dev/))
+[![dev Blog](https://img.shields.io/badge/dev-blog.com-4285F4?style=flat&logo=google-chrome&logoColor=white)]([https://brunovop.com](https://m3au.bearblog.dev/))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brun0vop&color=blueviolet)
